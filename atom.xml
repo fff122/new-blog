@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fff122.github.io/new-blog/</id>
+    <title>JCS的Blog</title>
+    <updated>2024-11-16T05:39:44.779Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fff122.github.io/new-blog/"/>
+    <link rel="self" href="https://fff122.github.io/new-blog/atom.xml"/>
+    <subtitle>你好，这是我的个人站点，
+🌟 在这里，我记录生活的点滴，
+📝 更新日常，分享心语，
+🌈 与你一同感受成长的喜悦！</subtitle>
+    <logo>https://fff122.github.io/new-blog/images/avatar.png</logo>
+    <icon>https://fff122.github.io/new-blog/favicon.ico</icon>
+    <rights>All rights reserved 2024, JCS的Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[你好世界]]></title>
+        <id>https://fff122.github.io/new-blog/post/ni-hao-shi-jie/</id>
+        <link href="https://fff122.github.io/new-blog/post/ni-hao-shi-jie/">
+        </link>
+        <updated>2024-11-16T05:35:37.000Z</updated>
+        <content type="html"><![CDATA[<p>你好</p>
+]]></content>
+    </entry>
+</feed>
