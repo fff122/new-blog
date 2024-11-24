@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lvl.asia</id>
+    <title>Universe</title>
+    <updated>2024-11-24T05:33:09.288Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lvl.asia"/>
+    <link rel="self" href="https://lvl.asia/atom.xml"/>
+    <subtitle>你好，这是我的个人站点，
+🌟 在这里，我记录生活的点滴，
+📝 更新日常，分享心语，
+🌈 与你一同感受成长的喜悦！</subtitle>
+    <logo>https://lvl.asia/images/avatar.png</logo>
+    <icon>https://lvl.asia/favicon.ico</icon>
+    <rights>All rights reserved 2024, Universe</rights>
+    <entry>
+        <title type="html"><![CDATA[TGA真逆天]]></title>
+        <id>https://lvl.asia/post/tga-zhen-ni-tian/</id>
+        <link href="https://lvl.asia/post/tga-zhen-ni-tian/">
+        </link>
+        <updated>2024-11-23T09:41:56.000Z</updated>
+        <content type="html"><![CDATA[<p>TGA真逆天，随时改评分标准是吧</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆天]]></title>
+        <id>https://lvl.asia/post/ni-tian/</id>
+        <link href="https://lvl.asia/post/ni-tian/">
+        </link>
+        <updated>2024-11-20T15:05:27.000Z</updated>
+        <content type="html"><![CDATA[<p>数学尼玛这两天我好像没听明白，明天中午得先看数学在打游戏了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆天]]></title>
+        <id>https://lvl.asia/post/20241116/</id>
+        <link href="https://lvl.asia/post/20241116/">
+        </link>
+        <updated>2024-11-16T05:52:11.000Z</updated>
+        <content type="html"><![CDATA[<p>搞了半小时终于搞好了，尼玛之前那个gridea的那个仓库不知道为啥，就是连接不上，真是无语死了，导致我现在只能重新在开一个仓库来托管博客</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好世界]]></title>
+        <id>https://lvl.asia/post/ni-hao-shi-jie/</id>
+        <link href="https://lvl.asia/post/ni-hao-shi-jie/">
+        </link>
+        <updated>2024-11-16T05:35:37.000Z</updated>
+        <content type="html"><![CDATA[<p>你好</p>
+]]></content>
+    </entry>
+</feed>
