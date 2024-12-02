@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lvl.asia</id>
+    <title>Kane</title>
+    <updated>2024-12-02T14:39:52.321Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lvl.asia"/>
+    <link rel="self" href="https://lvl.asia/atom.xml"/>
+    <subtitle>你好，这是我的个人站点，
+🌟 在这里，我记录生活的点滴，
+📝 更新日常，分享心语，
+🌈 与你一同感受成长的喜悦！</subtitle>
+    <logo>https://lvl.asia/images/avatar.png</logo>
+    <icon>https://lvl.asia/favicon.ico</icon>
+    <rights>All rights reserved 2024, Kane</rights>
+    <entry>
+        <title type="html"><![CDATA[......额]]></title>
+        <id>https://lvl.asia/post/e/</id>
+        <link href="https://lvl.asia/post/e/">
+        </link>
+        <updated>2024-12-02T14:35:30.000Z</updated>
+        <content type="html"><![CDATA[<p>我有一个朋友，她死在了1000年后的今天3024年的12月2日<br>
+<img src="https://lvl.asia/post-images/1733150217006.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Aliya]]></title>
+        <id>https://lvl.asia/post/aliya/</id>
+        <link href="https://lvl.asia/post/aliya/">
+        </link>
+        <updated>2024-12-01T14:55:10.000Z</updated>
+        <content type="html"><![CDATA[<p>“我们之间相隔的距离好像刚好是1000光年”</p>
+<p>“所以我看到的是1000年前的地球”</p>
+<p>“这意味着”</p>
+<p>“太阳的光经过8分钟后照在了你的身上”</p>
+<p>“然后又带着你的模样”</p>
+<p>“在宇宙中孤独旅行了1000年最后被我的眼睛捕捉到”</p>
+<p>“我现在很有可能能看到当下的你哦”</p>
+<p>“因此，我们可能很早就认识”</p>
+<p>“当我们都在仰望星空的时候”</p>
+<p>“我可能正在注视着你的眼睛”</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[极限国度真好玩]]></title>
+        <id>https://lvl.asia/post/ji-xian-guo-du-zhen-hao-wan/</id>
+        <link href="https://lvl.asia/post/ji-xian-guo-du-zhen-hao-wan/">
+        </link>
+        <updated>2024-11-30T15:40:50.000Z</updated>
+        <content type="html"><![CDATA[<p>极限国度我感觉最好玩的还是那个单车竞速和那个滑雪竞速，主要是我特技单车和特技滑雪的这两个玩的都不咋样，主要是那个特技，老是控制不好方向，有时候感觉好像可以转过去，但就是转不过去，只能被摔死按B复活重新玩了。下周放假得练习练习特技了。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TGA真逆天]]></title>
+        <id>https://lvl.asia/post/tga-zhen-ni-tian/</id>
+        <link href="https://lvl.asia/post/tga-zhen-ni-tian/">
+        </link>
+        <updated>2024-11-23T09:41:56.000Z</updated>
+        <content type="html"><![CDATA[<p>TGA真逆天，随时改评分标准是吧</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆天]]></title>
+        <id>https://lvl.asia/post/ni-tian/</id>
+        <link href="https://lvl.asia/post/ni-tian/">
+        </link>
+        <updated>2024-11-20T15:05:27.000Z</updated>
+        <content type="html"><![CDATA[<p>数学尼玛这两天我好像没听明白，明天中午得先看数学在打游戏了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[逆天]]></title>
+        <id>https://lvl.asia/post/20241116/</id>
+        <link href="https://lvl.asia/post/20241116/">
+        </link>
+        <updated>2024-11-16T05:52:11.000Z</updated>
+        <content type="html"><![CDATA[<p>搞了半小时终于搞好了，尼玛之前那个gridea的那个仓库不知道为啥，就是连接不上，真是无语死了，导致我现在只能重新在开一个仓库来托管博客</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你好世界]]></title>
+        <id>https://lvl.asia/post/ni-hao-shi-jie/</id>
+        <link href="https://lvl.asia/post/ni-hao-shi-jie/">
+        </link>
+        <updated>2024-11-16T05:35:37.000Z</updated>
+        <content type="html"><![CDATA[<p>你好</p>
+]]></content>
+    </entry>
+</feed>
